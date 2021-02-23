@@ -1,5 +1,5 @@
 {
-  "name": "com.unityMainThreadDispatcher",
+  "name": "com.unity.custom.threading",
   "displayName": "UnityMainThreadDispatcher",
   "version": "1.0.0"
 }
